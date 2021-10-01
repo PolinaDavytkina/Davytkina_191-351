@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Page1Form.qml</file>
+        <file>Page2Form.qml</file>
+        <file>MyGridItem.qml</file>
+        <file>Page3Form.qml</file>
+        <file>img/1.png</file>
+        <file>img/1.svg</file>
+        <file>img/2.png</file>
+        <file>img/2.svg</file>
+        <file>img/dir.svg</file>
+        <file>img/ic.ico</file>
+        <file>img/inst.svg</file>
+        <file>vid/sample.mp4</file>
+        <file>img/ret.svg</file>
+        <file>img/play.svg</file>
+        <file>img/stop.svg</file>
+        <file>vid/20180722_153205.mp4</file>
+        <file>Page4Form.qml</file>
+    </qresource>
+</RCC>
